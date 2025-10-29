@@ -16,4 +16,4 @@ From this dashboard and visualization, we can see which region and city need mor
 
 
 
-#RevoU_DAMC #RevoU_CaseStudy  #googlebigquery #tableaudashboard
+#RevoU_DAMC #RevoU_CaseStudy  #googlebigquery #tableaudashboard #SQL
