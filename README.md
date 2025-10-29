@@ -5,7 +5,7 @@ Let me share what I've got while I was joining RevoU Data Analytics Mini Course 
 Here it is, RevoU Data Analytics Case Study 🚨 
 In this assignment, I tested my knowledge on Basic to Intermediate SQL and analytical thinking skills using BigQuery. As a student of data analytics we are asked to create a dashboard on the Guarantee and Number Facilities in West Java to evaluate the condition of health facilities and health services in each Regency/City in West Java. 
 
-From this dashboard and visualization, we can see which region and city need more attention. In general, West Java is still adequate for health facilities. However, there are still several areas that need improvement.
+From this dashboard and visualization, we can see which region and city need more attention. In general, West Java is still adequate for health facilities. However, there are still several areas that need improvement. 
 
 🔗 Tableau Visualization: https://lnkd.in/gdTpWhDh
 
